@@ -1,10 +1,10 @@
 ### So far I've learned how to checkout/pull/push between different branches
 
 
-#### Fetch remote branch and merge it into (current)local branch 
+#### Fetch remote branch and merge it into local current working branch 
 - `git pull <remote> <remote branch>`
 
-#### Fetch remote branch and merge it into (current and specified)local branch
+#### Fetch remote branch and merge it into current working branch and local specified branch
 - `git pull <remote> <remote branch>:<local spcified branch>`
 
 
