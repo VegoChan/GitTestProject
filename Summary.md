@@ -1,5 +1,5 @@
-# Summary
-## About Branches
+# Summary of Git Practice
+## Part I: About Branches
 #### Fetch remote branch and merge it into local current working branch 
 - `git pull <remote> <remote branch>`
 #### Fetch remote branch and merge it into current working branch and local specified branch
