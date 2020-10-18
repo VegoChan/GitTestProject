@@ -6,5 +6,5 @@
 - `git pull <remote> <remote branch>:<local spcified branch>`
 #### Push local branch to remote branch in regardless of what the current working branch is
 - `git push <remote> <local branch>:<remote branch>`
-### Note
-The notation ':' means '->',that is,'a:b' means 'a->b',which is from a to b.  
+> ### Note
+> The notation ':' means '->',that is,'a:b' means 'a->b',which is from a to b.  
