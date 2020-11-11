@@ -3,5 +3,6 @@ local message 1
 remote message 2     
 local message 2    
 remote message 3     
+local message 3  
 remote message 4
 
