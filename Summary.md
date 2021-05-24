@@ -32,7 +32,7 @@
   
 - #### CRUD local branches
   _Create_   
-  Create and checkout a new branch.     
+  Create and checkout a new branch based on the current branch.     
   `//one way`   
   `git checkout -b <new branch>`    
   
